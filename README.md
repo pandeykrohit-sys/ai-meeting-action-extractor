@@ -57,10 +57,6 @@ This project automates the process using AI and workflows, saving time and impro
 ## 👤 Author
 
 Rohit Pandey  
-Customer Service Associate  
-Interested in AI + Automation + Business Operations
+AI tools, business operations, and automation
 
 
-## 📄 Sample Input
-
-``
