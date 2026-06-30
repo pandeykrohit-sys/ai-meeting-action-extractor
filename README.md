@@ -21,6 +21,17 @@ This project converts unstructured meeting notes into structured outputs includi
 - AI extracts structured action items
 - Formats output into readable text
 - Automatically sends results via email
+    
+
+### 🤖 AI Meeting Action Item Extractor
+
+AI-powered workflow automation built using n8n that automatically extracts structured action items from meeting notes and sends them via email.
+
+**Tech Stack:** n8n | OpenRouter API | Gmail API | Generative AI
+
+🔗 Repository:
+https://github.com/pandeykrohit-sys/ai-meeting-action-extractor
+
 
 ## ❗ Problem
 
