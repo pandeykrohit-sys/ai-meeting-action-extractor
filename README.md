@@ -34,11 +34,13 @@ This project automates the process using AI and workflows, saving time and impro
 
 ## Workflow screen
 
-<img width="1911" height="983" alt="Workflow screen" src="https://github.com/user-attachments/assets/a923d94b-0f12-4a17-949f-31d217f66a19" />
+<img width="1912" height="1136" alt="Workflow screen" src="https://github.com/user-attachments/assets/61ad0eaa-0cab-48cd-99df-dca01d98941e" />
+
 
 ## Email output 
 
-<img width="1512" height="352" alt="Email output " src="https://github.com/user-attachments/assets/3b9d722e-203a-4e6b-b07c-7d75d29886b5" />
+<img width="1307" height="638" alt="Email output " src="https://github.com/user-attachments/assets/6eb76fad-d681-487e-8d94-adf66a4f5f31" />
+
 
 
 ## 📤 Sample Output
